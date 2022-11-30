@@ -1,0 +1,11 @@
+Pull - To get the latest changes to the templates from Github:
+
+-Open your local repo folder in the explorer
+-Go to the source control tab
+-Under the "Source control repositories" section you should see your local folder with the templates
+    -Click the 3 dots and click on "Pull"
+-This will only overwrite the files that have changed
+
+**Only needs to be done when changes are made and pushed to the templates on Github. 
+
+For example, if we change Dougs signoff for some of the templates, youll need to do a Pull request to get the new versions onto your computer. We dont make many changes to the templates so this wont be something that needs to be done too often.
