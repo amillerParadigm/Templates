@@ -17,3 +17,9 @@ Commit and Push - Adding changes to files on Github
 -Under the "Source Control" section you should see the files that have been changed (You may have to click on the refresh icon)
 -When youre finished making changes, type in a message describing what changes you made to the file.
 -Click the arrow next to the commit button and select "Commit & Push". This will change the file on Github.
+
+
+Commit only - This will save your changes and add it to the "staging area" but it wont push changes to Github.
+
+-After making changes to the file, enter a message and then click the "Commit" button
+-To push to Github, click on the 3 dots next to your local folder name under the "Source Control Repositories" section and select "Push"
