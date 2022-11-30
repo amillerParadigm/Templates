@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-title>Jim Rickards' Strategic Intelligence</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
+    <mj-attributes>
+      <mj-text font-family="Roboto, Helvetica, Arial, sans-serif" font-size="16px" line-height="24px" padding-bottom="5px" />
+      <mj-section padding="5px 0" background-color="#ffffff" />
+      <mj-divider border-width="2px" border-color="#00263E" padding="0px 25px" />
+      <mj-table font-family="Roboto, Helvetica, Arial, sans-serif" font-size="16px" line-height="24px" padding-bottom="5px" />
+      <mj-class name="spad" background-color="#ffffff" padding="0 20px" inner-background-color="#CDD4D9">
+    </mj-attributes>
+      <mj-style inline="inline"> .mso-margin {mso-margin-top-alt:0;} .blockquote {margin-left: 20px;} .centered {text-align: center;} img.align-none { outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; float: none} img.centered { outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; clear: both; display: block; width: auto; max-width: 100%; float: none; margin: 0 auto;} .action-to-take {background-color:#00263E;} .headline { font-size: 28px; color: #00263E; font-weight: bold; line-height:32px; font-family: Georgia, 'Times New Roman', Times, serif; padding-bottom:10px; } .subhead { font-size: 22px; color: #00263E; font-weight: bold; line-height:30px; font-family: Georgia, 'Times New Roman', Times, serif; padding-bottom:10px; } .smaller-subhead { font-size: 19px; color: #00263E; font-weight: bold; line-height:30px;  font-family: Georgia, 'Times New Roman', Times, serif; padding-bottom:10px; } .nbp { margin-bottom:0; padding-bottom:0; } .ntp { margin-top:0; padding-top:0; } .buy { color:#33af4a; } .hold { color:#BE881B; } .sell { color:#e0483e; } </mj-style>
+    <mj-style> p {margin-bottom:20px} @media only screen and (max-width: 480px) { .topnav {font-size:10px !important;} .action-to-take {font-size:18px !important;} img.alignright {width: 50% !important; height: 50% !important;} .image-table {width:100%; margin-bottom:16px; text-align: center;} } </mj-style>
+      
+      
+    <!--Preview Text-->
+    <mj-preview>Jim Rickards' Strategic Intelligence presents... &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</mj-preview>
+  </mj-head>
+  <mj-body background-color="#ebebeb" width="580px">
+    <mj-section padding="0">
+      <mj-column width="100%" background-color="#ebebeb">
+        <mj-image src="https://media.paradigmpressgroup.com/mastheads/awn.png" alt="Jim Rickards' Strategic Intelligence" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#c3c3c3">
+      <mj-group>
+        <mj-column width="40%">
+          <mj-text font-size="12px" line-height="12px" padding-bottom="12px">
+            <div class="topnav">{{now format='MMMM dd, yyyy'}}</div>
+          </mj-text>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text align="right" font-size="12px" line-height="12px" padding-bottom="12px">
+            <div class="topnav"><a href="{{hostedUnsubscribeUrl}}" target="_blank" style="color:#000000;text-decoration:none;text-transform:uppercase;">UNSUBSCRIBE</a></div>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!--Main Body Section 1-->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text>
+{{{ snippet "template-assigns" "AWN" "DED" }}}
+          
+          
+          
+          <p class="centered headline">Headline</p>
+          
+          
+          
+          
+          <!--Author Headshot Table-->
+          <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-rspace: 16pt; float: left;">
+            <tr>
+              <th style="text-align: center; padding-right:20px;mso-table-rspace: 16pt;">
+                <img src="https://media.paradigmpressgroup.com/headshots/jim-rickards.jpg" align="left" alt="Jim Rickards" />
+              </th>
+            </tr>
+            <tr>
+              <td style="text-align: center; padding-bottom: 10px; padding-top: 0; padding-right:20px;mso-table-rspace: 16pt;mso-line-height-rule: exactly;" align="center">
+                <p style="text-align: center; margin: 0; padding: 0; font-size: 12px; line-height: 16px; font-family=Roboto, Helvetica, Arial, sans-serif;"><strong>JIM<br />RICKARDS</strong></p>
+              </td>
+            </tr>
+          </table>
+
+          <p class="mso-margin">Dear <!--{{#ifMatchesRegexStr FirstName "Email.*"}}-->Reader<!--{{else}}--><!--{{#if FirstName}}-->{{capitalizeFirst (lower FirstName)}}<!--{{else}}-->Reader<!--{{/if}}--><!--{{/ifMatchesRegexStr}}-->,</p>
+          
+         
+          
+          
+          <p>BODY COPY</p>
+          
+          
+          <p>All the best,</p>
+        </mj-text>
+        <mj-image width="250px" src="https://media.paradigmpressgroup.com/signatures/jim-rickards.png" align="left" alt="Jim Rickards" padding-bottom="0" />
+        <mj-text>
+          <p>Jim Rickards<br /> Editor, <i>{{pub_name}}</i></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--footer-->
+    <mj-section>
+      <mj-column width="100%" background-color="#000000" padding-bottom="40px">
+        <mj-image src="https://media.paradigmpressgroup.com/logos/pp_footer_white.png" width="150px" padding-top="20px" alt="Paradigm" href="https://paradigmpressgroup.com/" />
+        <!-- navbar -->
+        <mj-navbar hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="https://my.paradigmpressgroup.com/subscription/{{pub_code}}{{{ snippet 'autologin' }}}" color="#ffffff" font-family="Roboto, Helvetica, Arial, sans-serif">My Content</mj-navbar-link>
+          <mj-navbar-link href="https://my.paradigmpressgroup.com/account{{{ snippet 'autologin' }}}" color="#ffffff" font-family="Roboto, Helvetica, Arial, sans-serif">My Account</mj-navbar-link>
+          <mj-navbar-link href="https://paradigmpressgroup.com/contact-us" color="#ffffff" font-family="Roboto, Helvetica, Arial, sans-serif">Contact Us</mj-navbar-link>
+        </mj-navbar>
+        <mj-text color="#ffffff" font-size="12px" line-height="18px"> {{{ snippet "pp_paid_footer" }}} </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
