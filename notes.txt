@@ -1,3 +1,8 @@
+Download Git: https://sourceforge.net/projects/git-osx-installer/files/
+Github extension for VSCode: GitHub Pull Requests and Issues
+
+*****
+
 Pull - To get the latest changes to the templates from Github:
 
 -Open your local repo folder in the explorer
@@ -10,6 +15,8 @@ Pull - To get the latest changes to the templates from Github:
 
 For example, if we change Dougs signoff for some of the templates, youll need to do a Pull request to get the new versions onto your computer. We dont make many changes to the templates so this wont be something that needs to be done too often.
 
+*****
+
 Commit and Push - Adding changes to files on Github
 
 -Make your changes to the template file you have on your local machine
@@ -18,6 +25,7 @@ Commit and Push - Adding changes to files on Github
 -When youre finished making changes, type in a message describing what changes you made to the file.
 -Click the arrow next to the commit button and select "Commit & Push". This will change the file on Github.
 
+******
 
 Commit only - This will save your changes and add it to the "staging area" but it wont push changes to Github.
 
