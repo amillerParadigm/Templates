@@ -10,6 +10,24 @@ Extensions:
 
 *****
 
+To get started:
+
+-Click on the Source Control icon on the left
+-Clone repo
+-Enter the url for the github repo (https://github.com/amillerParadigm/Templates.git)
+-Select a spot to save to on your computer
+
+**If you dont open files and save a new copy for every email you code:
+    -After saving the repo to a folder on your computer, copy that folder to another folder that you can work on. This way you wont be working on the files that are linked to the github files and there is no worry of overwritting the templates. So youll have 2 folders with the same files. One will just hold the templates and is linked to github. The second is just a copy of all of the files that you can use to work on and code in.
+    -When there are changes made to the templates, youll need to do a Pull in the orignal folder you saved, and then copy the new templates to your 2nd folder.
+    -Maybe theres an easier way to do this?
+
+**If you do save each email you code:
+    -Open the file you need from the folder thats linked to github and do a file->save as to whereever you keep your emails
+
+
+**
+
 Pull - To get the latest changes to the templates from Github:
 
 -Open your local repo folder in the explorer
