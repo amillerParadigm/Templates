@@ -1,5 +1,12 @@
-Download Git: https://sourceforge.net/projects/git-osx-installer/files/
-Github extension for VSCode: GitHub Pull Requests and Issues
+Download VS Code: https://code.visualstudio.com/
+
+Extensions: 
+    MJML - the one with 32k downloads. This is the newer one that works fine. https://marketplace.visualstudio.com/items?itemName=mjmlio.vscode-mjml
+    HTML Preview - I only use this for doing RETA and if i need to grab the html code from iterable to do a forward when the mjml code isnt available. There may be better extensions, i havent tried any other ones. https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode
+    
+    
+    Download Git: https://sourceforge.net/projects/git-osx-installer/files/
+    Github extension for VSCode: GitHub Pull Requests and Issues (may not need)
 
 *****
 
