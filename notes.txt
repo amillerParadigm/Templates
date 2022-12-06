@@ -56,3 +56,4 @@ Commit only - This will save your changes and add it to the "staging area" but i
 
 -After making changes to the file, enter a message and then click the "Commit" button
 -To push to Github, click on the 3 dots next to your local folder name under the "Source Control Repositories" section and select "Push"
+    -Or you can hit the "Sync Changes" button
